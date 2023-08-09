@@ -1,2 +1,2 @@
-# FranticFlicpside-Website
+# FranticFlipside-Website
 Website for Frantic Flipside
